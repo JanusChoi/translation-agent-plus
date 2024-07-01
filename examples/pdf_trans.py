@@ -51,6 +51,6 @@ def main(input_pdf, output_file):
     
 # 使用示例
 source_lang, target_lang, country = "English", "Chinese", "China"
-input_pdf = "/Users/januswing/Downloads/somnium.pdf"
-output_file = "/Users/januswing/Downloads/somnium.txt"
+input_pdf = "your-full-file-path/somnium.pdf"
+output_file = "your-full-file-path/somnium.txt"
 main(input_pdf, output_file)
